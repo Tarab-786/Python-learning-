@@ -5,7 +5,8 @@ Hi! This is my Python practice repository. I'm currently learning Python and upl
 ### 📁 Folder Structure:
 
 - `basics/` – hello world, variables, input/output
-- `control_flow/` – if-else, loops
+- `control_flow/` – if-else
+- `control_flow/` - loops
 - `functions/` – function definitions, recursion
 - `projects/` – small projects like calculator, to-do list
 
