@@ -4,11 +4,11 @@ Hi! This is my Python practice repository. I'm currently learning Python and upl
 
 ### 📁 Folder Structure:
 
-- `basics/` – hello world, variables, input/output
-- `control_flow1/` – if-else
-- `control_flow/` - loops
-- `functions/` – function definitions, recursion
-- `projects/` – small projects like calculator, to-do list
+- `basics/` – Printing, Input/output, Data types (int, float, str), Type casting, Variables, Comments, Basic math operations
+- `control_flow1/` – if, if-else, elif, Nested ifs, match
+- `control_flow/` - for loops, while loops, Loop with range(), break, continue, pass
+- `functions/` – Defining functions, Parameters & return values, Recursion
+- `projects/` – small projects like calculator etc.
 
 ### 🧠 Purpose:
 This repo helps me:
