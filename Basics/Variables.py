@@ -29,4 +29,5 @@ price = 60.57
 
 print ("my name is:",name,".")
 print ("I'm",age,"years old.")
-print ("price of that book is:",price,"."
+print ("price of that book is:",price,".")
+--------------------------------------------------------------------------------------------------------------------
