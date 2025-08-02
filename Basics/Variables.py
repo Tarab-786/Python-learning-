@@ -30,6 +30,6 @@ age2 = age
 
 print ("my name is:",name,".")
 print ("I'm",age,"years old.")
-print ("price of that book is:",price,".")
+print ("price of that book is:",price,".") #this line will print: price of that book is 60.57.
 print (age2) #this line will print 19
 --------------------------------------------------------------------------------------------------------------------
