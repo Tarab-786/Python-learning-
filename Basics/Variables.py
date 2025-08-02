@@ -11,7 +11,7 @@ print ("I live in India.","I'm persuing B.Tech CSE")
 --------------------------------------------------------------------------------------------------------------------
 #program 4: printing of numbers 
 print (23) #you don't have to put those commas while printing number 
-print (23+48)
+print (23+48) #this line will print 71
 --------------------------------------------------------------------------------------------------------------------
 #program 5: defining variables 
 name = "Tarab" #string
@@ -26,8 +26,10 @@ print (price)
 name = "Tarab"
 age = 19
 price = 60.57
+age2 = age 
 
 print ("my name is:",name,".")
 print ("I'm",age,"years old.")
 print ("price of that book is:",price,".")
+print (age2) #this line will print 19
 --------------------------------------------------------------------------------------------------------------------
