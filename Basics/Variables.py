@@ -33,7 +33,7 @@ print ("I'm",age,"years old.")
 print ("price of that book is:",price,".") #this line will print: price of that book is 60.57.
 print (age2) #this line will print 19
 --------------------------------------------------------------------------------------------------------------------
-#printing of type of varibles
+#program 7: printing of type of varibles
 name = "Tarab"
 age = 19
 price = 59.88
@@ -42,3 +42,13 @@ print (type(name)) #this line result in <class 'str'>
 print (type(age)) #this line result in <class 'int'>
 print (type(price)) #this line result in <class 'float'>
 --------------------------------------------------------------------------------------------------------------------
+#program 8: Data type (string)
+name = 'Tarab'
+name1 = "Tarab"
+name2 = '''Tarab'''
+
+print (name)
+print (name1)
+print (name2)
+--------------------------------------------------------------------------------------------------------------------
+#program 9: Data type (Boolean)
