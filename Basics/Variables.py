@@ -65,6 +65,81 @@ print (a+b) #6
 print (a-b) #2
 print (a*b) #8
 print (a/b) #2.0
+print (a%b) #(modulu for remainder) =>0
+print (a**b) #(power operator) a^b =>16
 --------------------------------------------------------------------------------------------------------------------
+#program 10: OPERATORS 
+# relational operators 
+a = 50
+b = 20
 
+print (a == b) #False
+print (a != b) #True
+print (a >= b) #True 
+print (a > b) #True
+print (a <= b) #False
+print (a < b) #False
 --------------------------------------------------------------------------------------------------------------------
+#program 11: OPERATORS 
+#assignment operators 
+num = 10
+num = num + 10 # 10+10=20
+num += 10 #20
+num -= 10 #0
+num *= 10 #100
+num /= 5 #2
+num %= 5 #0
+num **= 5 #1,00,000
+print ("num:",num)
+--------------------------------------------------------------------------------------------------------------------
+#program 12: OPERATORS 
+#logical operators
+a = 50
+b = 30
+print (not False) #True
+print (not (a>b)) #False
+
+val1 = True 
+val2 = True 
+print ("AND operator:", val1 and val2) #True
+print ("OR operator:", val1 or val2) #True
+
+val1 = False
+val2 = True
+print ("AND operator:", val1 and val2) #False
+print ("OR operator:", a==b or a>b) #True
+
+val1 = False
+val2 = False
+print ("AND operator:", val1 and val2) #False
+print ("OR operator:", val1 or val2) #False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
