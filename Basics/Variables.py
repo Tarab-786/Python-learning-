@@ -37,15 +37,15 @@ print (age2) #this line will print 19
 name = "Tarab"
 age = 19
 price = 59.88
-old = false 
-a = none
+old = False 
+a = None
 
 
 print (type(name)) #this line result in <class 'str'>
 print (type(age)) #this line result in <class 'int'>
 print (type(price)) #this line result in <class 'float'>
 print (type(old)) #this line results in <class 'bool'>
-print (type(a)) #this line results in <class 'none type'>
+print (type(a)) #this line results in <class 'None type'>
 --------------------------------------------------------------------------------------------------------------------
 #program 8: Data type (string)
 name = 'Tarab'
@@ -56,5 +56,15 @@ print (name)
 print (name1)
 print (name2)
 --------------------------------------------------------------------------------------------------------------------
-#program 9: Data type (Boolean & none)
-
+#program 9: print sum of two numbers 
+a = 2
+b = 9
+sum = a + b
+print (sum)
+--------------------------------------------------------------------------------------------------------------------
+#program 10: difference of two numbers 
+a = 6000
+b = 4684
+diff = a - b 
+print (diff)
+--------------------------------------------------------------------------------------------------------------------
