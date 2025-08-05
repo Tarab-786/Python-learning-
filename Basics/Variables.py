@@ -135,7 +135,12 @@ print (type(name),name) #type will be string string always weather it'll float/i
 
 int ("5")
 val = int (input ("enter some value:"))
-print (type(val),val)
+print (type(val),val) #data type will be 'int'
+
+str ("good morning")
+greet = str (input ("hello,")
+print (type(greet),greet) #data type will be 'str'
+
 --------------------------------------------------------------------------------------------------------------------
 
 
