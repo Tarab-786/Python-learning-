@@ -141,10 +141,28 @@ str ("good morning")
 greet = str (input ("hello,"))
 print (type(greet),greet) #data type will be 'str'
 --------------------------------------------------------------------------------------------------------------------
+#program 16: WAP to input 2 numbers & print their sum
+first = int(input ("enter first:"))
+second= int(input ("enter second:"))
 
+print ("sum =", first + second)
+--------------------------------------------------------------------------------------------------------------------
+#program 17: WAP to input side of a square and print its area
+side = float(input ("enter square side:"))
+print ("area of square=", side * side ) #or you can use side **2
+--------------------------------------------------------------------------------------------------------------------
+#program 18: WAP to input 2 floating point numbers and print their average 
+first = float(input ("enter first value:"))
+second = float(input ("enter second value:"))
 
+print ("average of the given values=", (first+second)/2)
+--------------------------------------------------------------------------------------------------------------------
+#program 19: WAP to input 2 numbers, a & b. Print true if a is greater than or equal to b. If not print false.
+num1 = int(input("enter num1:"))
+num2 = int(input("enter num2:"))
 
-
+print (num1>=num2)
+--------------------------------------------------------------------------------------------------------------------
 
 
 
