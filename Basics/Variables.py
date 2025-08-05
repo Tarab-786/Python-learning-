@@ -138,9 +138,8 @@ val = int (input ("enter some value:"))
 print (type(val),val) #data type will be 'int'
 
 str ("good morning")
-greet = str (input ("hello,")
+greet = str (input ("hello,"))
 print (type(greet),greet) #data type will be 'str'
-
 --------------------------------------------------------------------------------------------------------------------
 
 
