@@ -113,6 +113,53 @@ val1 = False
 val2 = False
 print ("AND operator:", val1 and val2) #False
 print ("OR operator:", val1 or val2) #False
+--------------------------------------------------------------------------------------------------------------------
+#program 13: Type conversion 
+a = 2
+b = 4.25
+
+sum = a + b #python will convert int to superior value i.e. float => 2.0+4.25
+print (sum) # implicit conversion 
+--------------------------------------------------------------------------------------------------------------------
+#program 14: type casting 
+a = int("2")
+b = 4.25
+
+print (type(a))
+print (a+b)
+--------------------------------------------------------------------------------------------------------------------
+#program 15: input in python 
+name = input ("enter your name:")
+print ("welcome",name) 
+print (type(name),name) #type will be string string always weather it'll float/int,so here we need type casting
+
+int ("5")
+val = int (input ("enter some value:"))
+print (type(val),val)
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
