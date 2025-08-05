@@ -40,7 +40,6 @@ price = 59.88
 old = False 
 a = None
 
-
 print (type(name)) #this line result in <class 'str'>
 print (type(age)) #this line result in <class 'int'>
 print (type(price)) #this line result in <class 'float'>
@@ -90,6 +89,7 @@ num *= 10 #100
 num /= 5 #2
 num %= 5 #0
 num **= 5 #1,00,000
+
 print ("num:",num)
 --------------------------------------------------------------------------------------------------------------------
 #program 12: OPERATORS 
