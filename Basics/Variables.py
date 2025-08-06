@@ -162,10 +162,28 @@ num1 = int(input("enter num1:"))
 num2 = int(input("enter num2:"))
 
 print (num1>=num2)
---------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------- 
+#program 20: escape sequence characters
+str1 = "My name is tarab.\nI'm 19 yrs old"
+print (str1) #it will print in different line.
 
+str2 = "My name is Tarab.\tI live in delhi"
+print (str2) #it get space of 6 letters in b/w
 
+str3 = "I'm learning python.\r it's very interesting"
+print (str3) #it vanishes the first string 
 
+str4 = "This is a string.\a read it carefully"
+print (str4) #it write it as it is
+
+str5 = "I have books.\f I love to read them"
+print (str5) #it print the first string and where it second string intiate with second line 
+
+str6 = "register carefully.\v to enroll successfully"
+print (str6)
+
+str7 = "bring the bottle\b& fill it water"
+print (str7)
 
 
 
